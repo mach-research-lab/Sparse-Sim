@@ -1,0 +1,19 @@
+# Results
+results/
+
+# Local matrix cache
+data/matrix_storage/
+
+# Support
+aux/
+tmp/
+
+# Build
+build/
+
+# Auto-generated
+__pycache__/
+.pytest_cache/
+*.egg-info/
+*.so
+*.pyc
